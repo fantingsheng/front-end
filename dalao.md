@@ -1,10 +1,10 @@
----
-description: 排名不分先后
----
 
-# 玖.2 知名前端人物
+>说明: 排名不分先后
 
-### 玖.2.1 国外 <a id="1-1-&#x56FD;&#x9645;"></a>
+
+# 知名前端人物
+
+### 国外 <a id="1-1-&#x56FD;&#x9645;"></a>
 
 1. \*\*\*\*[**Chris Coyier**](http://chriscoyier.net/)\*\*\*\*
 
@@ -242,7 +242,7 @@ description: 排名不分先后
     [Twitter](http://www.twitter.com/jashkenas)、 [Github](https://github.com/jashkenas)、  
     邮箱： jashkenas@gmail.com
 
-### 玖.2.2 国内 <a id="1-2-&#x56FD;&#x5185;"></a>
+### 国内 <a id="1-2-&#x56FD;&#x5185;"></a>
 
 1. \*\*\*\*[**玉伯**](https://github.com/lifesinger/blog/issues)\*\*\*\*
 
