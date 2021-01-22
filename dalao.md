@@ -22,241 +22,45 @@
 | [Mark Otto](http://mdo.fm/) | Github设计主管，[Bootstrap](http://getbootstrap.com/)作者。| [Twitter](https://twitter.com/mdo)、 [Github](https://github.com/mdo)、 [Dribble](https://dribbble.com/mdo)、 [blog](http://markdotto.com/)、邮箱：markdotto@gmail.com、或是github上[提问](https://github.com/mdo/ama)。|
 | [Sindre Sorhus](https://github.com/sindresorhus) | [AVA](https://github.com/avajs/ava)、[chalk](https://github.com/chalk/chalk)、[yeoman](http://yeoman.io/)等项目开创者，创建多个流行github项目[awesome](https://github.com/sindresorhus/awesome)、[awesome-nodejs](https://feahter.github.io/2016/12/08/%E5%89%8D%E7%AB%AF%E5%A4%A7%E7%A5%9E/[https://github.com/sindresorhus/awesome-nodejs]%28https://github.com/sindresorhus/awesome-nodejs)\)等。| [Twitter](https://twitter.com/sindresorhus)、 [Github](https://github.com/sindresorhus)、邮箱：sindresorhus@gmail.com |
 | [Una Kravets](https://una.im/about/) | 前端开发者、设计师，擅长使用CSS去做美妙的事情，CSS图片美化库[CSSgram](https://github.com/una/CSSgram)项目开发者,IBM Design团队成员。| [Twitter](http://twitter.com/una)、 [Github](http://github.com/una)、 [Dribble](http://dribbble.com/una)、 [Codepen](http://codepen.io/una)、 [Linkedin](http://www.linkedin.com/pub/una-kravets/30/827/a35/)、 [blog](https://una.im/)、邮箱：una.kravets@gmail.com |
-
+| [ESTELLE WEYL](http://www.standardista.com/) | 资深web开发人员，技术书女作家，写就[**HTML5与CSS3实战指南**](https://book.douban.com/subject/6969713/)、[Flexible Boxes in CSS : Free Yourself with Flexbox](https://book.douban.com/subject/26731854/)、[Transitions and Animations in CSS: Adding Motion with CSS](https://book.douban.com/subject/26782226/)、[Mobile HTML5 : Using the latest today](https://book.douban.com/subject/6865682/)等。| [Twitter](http://twitter.com/estellevw)、 [Github](https://github.com/estelle)、 [演讲](http://lanyrd.com/profile/estellevw/)、 [图书](https://book.douban.com/search/Estelle%20Weyl)、邮箱：estelle@weyl.org、或者个人网站留言提问。|
+| [**Alex Sexton**](https://alexsexton.com/) | [Modernizr](http://modernizr.com/)、[jQuery](https://jquery.org/team/)、[Dojo Foundation](http://dojofoundation.org/about/board-members)等项目核心成员。|  [Twitter](https://twitter.com/SlexAxton)、 [Github](https://github.com/SlexAxton)、 [Google+](https://www.google.com/+AlexSexton)、邮箱：alexsexton@gmail.com |
+| [**Christian Heilmann**](https://www.christianheilmann.com/) |  Mozilla首席html5布道者，知名web开发者、技术作家，[Web开发解决方案](https://book.douban.com/subject/3137323/)、[The Art & Science of JavaScript](https://book.douban.com/subject/3014491/)作者之一。|  [Twitter](http://twitter.com/codepo8)、 [Github](https://github.com/codepo8)、 [Google+](https://plus.google.com/111552931212713155841/posts)、 [Sitepoint](https://www.sitepoint.com/author/christian-heilmann/)、 [Smashing magazine](https://www.smashingmagazine.com/author/christian-heilmann/)、邮箱：chris.heilmann@gmail.com、或chris@christianheilmann.com |
+| [Kyle Simpson](http://getify.me/) | 从事跟JS有关的一切事儿，写书、教学、演讲、开发等等，《**You Don’t Know JS** 》系列丛书作者，[你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/)、[HTML5 Cookbook](https://book.douban.com/subject/10773333/)作者。| [Facebook](https://facebook.com/kyle-simpson)、 [Github](https://github.com/getify)、 [Google+](http://getify.me/@google+)、 [Linkedin](http://getify.me/@linkedin)、 [Stackoverflow.com](http://stackoverflow.com/users/228852/kyle-simpson)、邮箱：getify@gmail.com |
+| [Ana Tudor](https://thebabydino.github.io/) | Codenpen上玩CSS的女孩子，很多效果非常厉害。| [Twitter](https://twitter.com/thebabydino)、 [Github](https://github.com/thebabydino)、 [Codepen](http://codepen.io/thebabydino/)、 [Stackoverflow.com](http://stackoverflow.com/users/1397351/ana)
+| [Dudley Storey](http://thenewcode.com/) | 《[Pro Css3 Animation](https://book.douban.com/subject/20780533/)》图书作者，CSSSlidy等项目作者。| [Twitter](https://twitter.com/dudleystorey)、 [Github](https://github.com/dudleystorey)、 [Google+](https://plus.google.com/+DudleyStorey/)、 [Codepen](http://codepen.io/dudleystorey/)、邮箱：dudley.storey@gmail.com |
+| [Hakim El Hattab](http://hakim.se/) | 来自瑞典的前端开发工程师、界面设计师，[slides](https://slides.com/)创始人，[reveal.js](https://github.com/hakimel/reveal.js)、Ladda、stroll.js等项目开发者，详情参加个人主页。|  [Twitter](http://twitter.com/hakimel)、 [Github](https://github.com/hakimel)、 [Codepen](http://codepen.io/hakimel)、邮箱：hakim.elhattab@gmail.com |
+| [Angus Croll](http://anguscroll.com/) | Twitter公司前端工程师，[Twitter Flight](http://flightjs.github.io/)项目合作开发者,[If Hemingway Wrote JavaScript](http://anguscroll.com/hemingway/index.html)作者。|  [Twitter](https://twitter.com/angustweets)、 [Github](https://github.com/angus-c)、 [Codepen](http://codepen.io/hakimel)、邮箱：anguscroll@gmail.com |
+| [Nicolas Gallagher](http://nicolasgallagher.com/) | Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normalize.css)项目创始人，bower、rework、postcss、npm dom等项目核心参与者。|  [Twitter](http://twitter.com/necolas)、 [Github](http://github.com/necolas)、 [Linkedin](http://www.linkedin.com/in/nicolasgallagher)、邮箱：nicolas@nicolasgallagher.com |
+| [TJ Holowaychuk](http://tjholowaychuk.com/) | TJ Holowaychuk ，程序员兼艺术家，Koa、Co、Express、jade、mocha、node-canvas、commander.js 等知名开源项目的创建和贡献者。| [Twitter](http://twitter.com/tjholowaychuk)、 [Github](http://github.com/tj)、 [Blog](http://tjholowaychuk.com/blog/)、 [Instagram](http://www.instagram.com/tjholowaychuk2)、邮箱：tj@tjholowaychuk.com |
+| [Addy Osmani](http://addyosmani.com/) | Addy Osmani ，谷歌前端开发工程师，创建了 TodoMVC、jQuery UI Bootstrap、jQuery Plugin Patterns 和 Backbone Paginator，出版了《Learning JavaScript Design Patterns》和《Developing Backbone.js Applications》两本技术书籍，而且还是著名的 jQuery、Modernizr 以及Backbone.js 框架的贡献者。 | [Twitter](https://twitter.com/addyosmani)、 [Github](https://github.com/addyosmani)、 [Youtube](https://developers.google.com/web/shows/ttt/)、邮箱：addyosmani@gmail.com |
+| [Douglas Crockford](http://www.crockford.com/) | Douglas Crockford是JavaScript开发社区最知名的权威，是JSON、JSLint、JSMin和ADSafe之父，是《JavaScript: The Good Parts》的作者。他同时也服务于ECMA的JavaScript2.0技术委员会（TC39）。| [Github](https://github.com/douglascrockford)、 [Google+](https://plus.google.com/u/0/+DouglasCrockfordEsq)、邮箱：douglas@crockford.com |
+| [Mike Bostock](http://bost.ocks.org/) | Mike Bostock，纽约时报图形编辑，知名可视化库 [D3.js](http://d3.org/)的主要作者。 | [Twitter](https://twitter.com/mbostock)、 [Github](https://github.com/mbostock)、邮箱：mike@ocks.org |
+| [Mr.doob](http://mrdoob.com/) | Mr.doob \(Ricardo Cabello Migue\) 是JS三维模型库[three.js](http://threejs.org/)， [Code Editor](http://www.chromeexperiments.com/detail/code-editor/) 的作者。| [Twitter](http://twitter.com/mrdoob)、 [Github](https://github.com/mrdoob) |
+| [**Jessica Lord**](https://jlord.github.io/) | Jessica Lord， 2013年5月份加入Github设计团队。是开源项目sheetsee.js的作者。| [Twitter](http://www.twitter.com/jllord)、 [Github](https://github.com/jlord)、邮箱： to.jlord@gmail.com |
+| [**Jeremy Ashkenas**](http://ashkenas.com/) | Jeremy Ashkenas,纽约时报图形编辑，[Underscore.js](http://underscorejs.org/)、[backbone.js](http://backbonejs.org/)、[CoffeeScript](http://coffeescript.org/)的主要作者。| [Twitter](http://www.twitter.com/jashkenas)、 [Github](https://github.com/jashkenas)、邮箱： jashkenas@gmail.com |
   
-
     
-
-15. \*\*\*\*[**ESTELLE WEYL**](http://www.standardista.com/)\*\*\*\*
-
-    资深web开发人员，技术书女作家，写就[**HTML5与CSS3实战指南**](https://book.douban.com/subject/6969713/)、[Flexible Boxes in CSS : Free Yourself with Flexbox](https://book.douban.com/subject/26731854/)、[Transitions and Animations in CSS: Adding Motion with CSS](https://book.douban.com/subject/26782226/)、[Mobile HTML5 : Using the latest today](https://book.douban.com/subject/6865682/)等。
-
-    联系方式：
-
-    [Twitter](http://twitter.com/estellevw)、 [Github](https://github.com/estelle)、 [演讲](http://lanyrd.com/profile/estellevw/)、 [图书](https://book.douban.com/search/Estelle%20Weyl)、  
-    邮箱：estelle@weyl.org、或者个人网站留言提问。
-
-16. \*\*\*\*[**Alex Sexton**](https://alexsexton.com/)\*\*\*\*
-
-    [Modernizr](http://modernizr.com/)、[jQuery](https://jquery.org/team/)、[Dojo Foundation](http://dojofoundation.org/about/board-members)等项目核心成员。
-
-    联系方式：  
-    [Twitter](https://twitter.com/SlexAxton)、 [Github](https://github.com/SlexAxton)、 [Google+](https://www.google.com/+AlexSexton)、  
-    邮箱：alexsexton@gmail.com
-
-17. \*\*\*\*[**Christian Heilmann**](https://www.christianheilmann.com/)\*\*\*\*
-
-    Mozilla首席html5布道者，知名web开发者、技术作家，[Web开发解决方案](https://book.douban.com/subject/3137323/)、[The Art & Science of JavaScript](https://book.douban.com/subject/3014491/)作者之一。
-
-    联系方式：  
-    [Twitter](http://twitter.com/codepo8)、 [Github](https://github.com/codepo8)、 [Google+](https://plus.google.com/111552931212713155841/posts)、 [Sitepoint](https://www.sitepoint.com/author/christian-heilmann/)、 [Smashing magazine](https://www.smashingmagazine.com/author/christian-heilmann/)、  
-    邮箱：chris.heilmann@gmail.com、或chris@christianheilmann.com
-
-18. \*\*\*\*[**Kyle Simpson**](http://getify.me/)\*\*\*\*
-
-    从事跟JS有关的一切事儿，写书、教学、演讲、开发等等，《**You Don’t Know JS** 》系列丛书作者，[你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/)、[HTML5 Cookbook](https://book.douban.com/subject/10773333/)作者。
-
-    联系方式：  
-    [Facebook](https://facebook.com/kyle-simpson)、 [Github](https://github.com/getify)、 [Google+](http://getify.me/@google+)、 [Linkedin](http://getify.me/@linkedin)、 [Stackoverflow.com](http://stackoverflow.com/users/228852/kyle-simpson)、  
-    邮箱：getify@gmail.com
-
-19. \*\*\*\*[**Ana Tudor**](https://thebabydino.github.io/)\*\*\*\*
-
-    Codenpen上玩CSS的女孩子，很多效果非常厉害。
-
-    联系方式：  
-    [Twitter](https://twitter.com/thebabydino)、 [Github](https://github.com/thebabydino)、 [Codepen](http://codepen.io/thebabydino/)、 [Stackoverflow.com](http://stackoverflow.com/users/1397351/ana)
-
-20. \*\*\*\*[**Dudley Storey**](http://thenewcode.com/)\*\*\*\*
-
-    《[Pro Css3 Animation](https://book.douban.com/subject/20780533/)》图书作者，CSSSlidy等项目作者。
-
-    联系方式：  
-    [Twitter](https://twitter.com/dudleystorey)、 [Github](https://github.com/dudleystorey)、 [Google+](https://plus.google.com/+DudleyStorey/)、 [Codepen](http://codepen.io/dudleystorey/)、  
-    邮箱：dudley.storey@gmail.com
-
-21. \*\*\*\*[**Hakim El Hattab**](http://hakim.se/)\*\*\*\*
-
-    来自瑞典的前端开发工程师、界面设计师，[slides](https://slides.com/)创始人，[reveal.js](https://github.com/hakimel/reveal.js)、Ladda、stroll.js等项目开发者，详情参加个人主页。
-
-    联系方式：  
-    [Twitter](http://twitter.com/hakimel)、 [Github](https://github.com/hakimel)、 [Codepen](http://codepen.io/hakimel)、  
-    邮箱：hakim.elhattab@gmail.com
-
-22. \*\*\*\*[**Angus Croll**](http://anguscroll.com/)\*\*\*\*
-
-    Twitter公司前端工程师，[Twitter Flight](http://flightjs.github.io/)项目合作开发者,[If Hemingway Wrote JavaScript](http://anguscroll.com/hemingway/index.html)作者。
-
-    联系方式：  
-    [Twitter](https://twitter.com/angustweets)、 [Github](https://github.com/angus-c)、 [Codepen](http://codepen.io/hakimel)、  
-    邮箱：anguscroll@gmail.com
-
-23. \*\*\*\*[**Nicolas Gallagher**](http://nicolasgallagher.com/)\*\*\*\*
-
-    Twitter公司前端工程师，[normalize.css](https://github.com/necolas/normalize.css)项目创始人，bower、rework、postcss、npm dom等项目核心参与者。
-
-    联系方式：  
-    [Twitter](http://twitter.com/necolas)、 [Github](http://github.com/necolas)、 [Linkedin](http://www.linkedin.com/in/nicolasgallagher)、  
-    邮箱：nicolas@nicolasgallagher.com
-
-24. \*\*\*\*[**TJ Holowaychuk**](http://tjholowaychuk.com/)\*\*\*\*
-
-    TJ Holowaychuk ，程序员兼艺术家，Koa、Co、Express、jade、mocha、node-canvas、commander.js 等知名开源项目的创建和贡献者。
-
-    联系方式：  
-    [Twitter](http://twitter.com/tjholowaychuk)、 [Github](http://github.com/tj)、 [Blog](http://tjholowaychuk.com/blog/)、 [Instagram](http://www.instagram.com/tjholowaychuk2)、  
-    邮箱：tj@tjholowaychuk.com
-
-25. \*\*\*\*[**Addy Osmani**](http://addyosmani.com/)\*\*\*\*
-
-    Addy Osmani ，谷歌前端开发工程师，创建了 TodoMVC、jQuery UI Bootstrap、jQuery Plugin Patterns 和 Backbone Paginator，出版了《Learning JavaScript Design Patterns》和《Developing Backbone.js Applications》两本技术书籍，而且还是著名的 jQuery、Modernizr 以及Backbone.js 框架的贡献者。
-
-    联系方式：  
-    [Twitter](https://twitter.com/addyosmani)、 [Github](https://github.com/addyosmani)、 [Youtube](https://developers.google.com/web/shows/ttt/)、  
-    邮箱：addyosmani@gmail.com
-
-26. \*\*\*\*[**Douglas Crockford**](http://www.crockford.com/)\*\*\*\*
-
-    Douglas Crockford是JavaScript开发社区最知名的权威，是JSON、JSLint、JSMin和ADSafe之父，是《JavaScript: The Good Parts》的作者。他同时也服务于ECMA的JavaScript2.0技术委员会（TC39）。
-
-    联系方式：  
-    [Github](https://github.com/douglascrockford)、 [Google+](https://plus.google.com/u/0/+DouglasCrockfordEsq)、  
-    邮箱：douglas@crockford.com
-
-27. \*\*\*\*[**Mike Bostock**](http://bost.ocks.org/)\*\*\*\*
-
-    Mike Bostock，纽约时报图形编辑，知名可视化库 [D3.js](http://d3.org/)的主要作者。
-
-    联系方式：  
-    [Twitter](https://twitter.com/mbostock)、 [Github](https://github.com/mbostock)、  
-    邮箱：mike@ocks.org
-
-28. \*\*\*\*[**Mr.doob**](http://mrdoob.com/)\*\*\*\*
-
-    Mr.doob \(Ricardo Cabello Migue\) 是JS三维模型库[three.js](http://threejs.org/)， [Code Editor](http://www.chromeexperiments.com/detail/code-editor/) 的作者。
-
-    联系方式：  
-    [Twitter](http://twitter.com/mrdoob)、 [Github](https://github.com/mrdoob)、
-
-29. \*\*\*\*[**Jessica Lord**](https://jlord.github.io/)\*\*\*\*
-
-    Jessica Lord， 2013年5月份加入Github设计团队。是开源项目sheetsee.js的作者。
-
-    联系方式：  
-    [Twitter](http://www.twitter.com/jllord)、 [Github](https://github.com/jlord)、  
-    邮箱： to.jlord@gmail.com
-
-30. \*\*\*\*[**Jeremy Ashkenas**](http://ashkenas.com/)\*\*\*\*
-
-    Jeremy Ashkenas,纽约时报图形编辑，[Underscore.js](http://underscorejs.org/)、[backbone.js](http://backbonejs.org/)、[CoffeeScript](http://coffeescript.org/)的主要作者。
-
-    联系方式：  
-    [Twitter](http://www.twitter.com/jashkenas)、 [Github](https://github.com/jashkenas)、  
-    邮箱： jashkenas@gmail.com
 
 ### 国内 <a id="1-2-&#x56FD;&#x5185;"></a>
 
-1. \*\*\*\*[**玉伯**](https://github.com/lifesinger/blog/issues)\*\*\*\*
+| 姓名 | 介绍 | 联系方式 |
+| --- | --- | --- |
+| [**玉伯**](https://github.com/lifesinger/blog/issues) | 玉伯（王保平），淘宝前端类库 KISSY、前端模块化开发框架SeaJS、前端基础类库Arale的创始人。2003-2006 年，中科院物理所研究生，Fortran 与 C 程序员，喜爱实验模拟和数值计算。 2006-2008 年，在中科院软件所互联网实验室从事项目管理软件的研发，C\# 与 Java 爱好者。 2008 年 4 月份加入淘宝，就职于 UED 部门。2009 年起，组建前端架构团队，在首页维护、全网性能优化、类库研发、知识沉淀、工具应用等方面取得了丰硕成果。| [微博](http://weibo.com/lifesinger)、 [知乎](https://www.zhihu.com/people/lifesinger)、 [Github](https://github.com/lifesinger)、邮箱：lifesinger@gmail.com |
+| [阮一峰](http://www.ruanyifeng.com/blog/) | 70后，在上海出生和长大，大学读经济学。工作了几年，又去读了世界经济的研究生，毕业后，在上海一所本地高校当了老师，教财经类的课程。最近，去了支付宝的前端团队，在玉伯负责的”体验技术部”工作，目前主要从事JavaScript和Node.js的开发。| [微博](http://weibo.com/ruanyf)、 [Github](https://github.com/ruanyf)、 [Twitter](https://twitter.com/ruanyf)、邮箱：yifeng.ruan@gmail.com |
+| [司徒正美](http://www.cnblogs.com/rubylouvre/) | 钟钦成，网名司徒正美，著名的Java专家，去哪儿网前端架构师，立志做考古学家的日语系工程师，穿梭于二次元与二进制间的“魔法师”，做过陶艺，写过小说，涉猎Java、Ruby、 Java。曾出版《Java框架设计》一书。|  [微博](http://weibo.com/jslouvre)、 [知乎](https://www.zhihu.com/people/si-tu-zheng-mei)、 [Github](https://github.com/RubyLouvre)、邮箱:cheng19840218@gmail.com |
+| [朴灵](http://diveintonode.org/) | 朴灵，真名田永强，文艺型码农，Node.js布道者。现就职于阿里巴巴数据平台，任资深工程师，著有《深入浅出Node.js》。他活跃于CNode社区，是线下会议NodeParty的组织者，同时也是JSConf China（沪JS、京JS，以及杭JS）的组织者之一。朴灵热爱开源，是多个Node.js模块的作者。[前端技能汇总](https://github.com/JacksonTian/fks)项目star7000+。| [微博](http://weibo.com/shyvo)、 [知乎](https://www.zhihu.com/people/po-ling)、 [Github](https://github.com/JacksonTian)、邮箱:shyvo1987@gmail.com |
+| [尤小右](http://evanyou.me/) |  本名尤雨溪，目前在 Google Creative Lab 就职。vue.js 项目作者。|  [微博](http://weibo.com/arttechdesign)、 [知乎](https://www.zhihu.com/people/evanyou)、 [Twitter](https://twitter.com/youyuxi)、 [Github](https://github.com/yyx990803) |
+| [贺师俊](http://johnhax.net/) | 贺师俊，网名 Hax，百姓网前端技术专家。有年头的 Web 开发者，信仰 Web 标准，HTML 纯化论者 +CSS 理想主义者 +JavaScript 改革派 +REST 信徒。 他致力于构建真正实践互联网开放理念的 Web 产品，并平衡需求、技术和人性因素。所以在写代码以外，他还热切的关注可用性、无障碍性乃至更广泛意义上的用户体验（譬如售后服务）。 作为一个坚持己见的人，Hax 因犀利的技术批评为人所知，其拍砖对象下到写书神棍上至业界权威，中间亦包括他的同事和朋友——因为他深信正直坦诚是技术人员必须坚守的美德，并希望通过自由而热烈的讨论推动技术社群不断成长、永葆活力。 Hax 毕业于复旦大学，感兴趣的领域除了 Web 标准、协议、架构以及与 Web 相关的各种具体技术之外，还包括交互设计、编程语言和方法论，最近则迷上了字体和排版。| [微博](http://weibo.com/haxy)、 [Twitter](https://twitter.com/haxy)、 [知乎](https://www.zhihu.com/people/he-shi-jun)、 [Github](https://github.com/hax)、邮箱：johnhax@gmail.com |
+| [周爱民](http://weibo.com/aimingoo) | 曾阿里、豌豆荚做架构师，现为[Ruff](https://ruff.io/)架构师。著有《JAVASCRIPT语言精髓与编程实践》、《大道至简——软件工程实践者的思想》等业内名作。| [微博](http://weibo.com/aimingoo)、 [知乎](https://www.zhihu.com/people/aimingoo)、 [Github](https://github.com/aimingoo)、 [CSDN](http://blog.csdn.net/aimingoo) |
+| [徐涛](http://www.cnblogs.com/TomXu/) | 汤姆大叔，原名徐涛，资深Web开发工程师，精通JavaScript、CSS、HTML5等Web开发技术，以及Bootstrap等各种主流Web开发框架。擅长Web系统的架构、设计与开发，参与过全球最大婚恋网站Match、全球最大在线旅游网站Expedia、波音公司、GE医疗和万达集团等多个国际知名企业的Web项目的架构与设计。他还是一位资深的微软技术专家，曾获得MCP、MCTS、MCDBA等近十项认证。翻译了《Java Script编程精解》、《Javascript启示录》、《编写可测试的JavaScript代码》、《Backbone.js应用程序开发》、《JavaScript忍者秘籍》、《JavaScript设计模式》等多本JavaScript方面的著作。| [微博](http://weibo.com/TomXuTao)、 [博客](http://www.cnblogs.com/TomXu/) |
+| [廖雪峰](http://www.liaoxuefeng.com/) | 技术作家，十年软件开发经验，业余产品经理，精通Java/Python/Ruby/Visual Basic/Objective C等，对开源框架有深入研究，著有号称史上最浅显易懂的[Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)，口碑不错的《[JS教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)》，多个业余开源项目托管在GitHub。| [微博](http://weibo.com/liaoxuefeng)、 [Twitter](https://twitter.com/liaoxuefeng)、 [知乎](https://www.zhihu.com/people/liaoxuefeng)、 [Github](https://github.com/michaelliao)、邮箱：askxuefeng@gmail.com |
+| [勾三股四](http://jiongks.name/) | 勾三股四，本名赵锦江，阿里巴巴高级前端工程师，前北京傲游前端开发部经理。| [微博](http://weibo.com/mx006)、 [知乎](https://www.zhihu.com/people/jinjiang)、 [Github](http://github.com/jinjiang/)、邮箱：zhaojinjiang@me |
+| [寒冬winter](http://winter-cn.cnblogs.com/) | 本名程劭非，花名寒泉，前端工程师，JavaScript 专家。江湖人称“计算机之子”。先后在微软，盛大，阿里巴巴工作，目前是手机淘宝前端 leader。| [微博](http://weibo.com/wintercn)、 [知乎](https://www.zhihu.com/people/evanyou)、 [Github](https://github.com/wintercn)、 [博客](http://winter-cn.cnblogs.com/)、邮箱：csf178@gmail.com |
+| [徐飞](https://github.com/xufei/blog) | 苏宁云商前端架构师，国内知名前端，博客里的Angular教程颇多拥趸。徐飞同志讲话要点：技术人员应当乐于助人，有好东西要主动拿出来分享，资产阶级知识分子垄断技术书籍的现象再也不能出现了！| [微博](http://weibo.com/sharpmaster)、 [Github](https://github.com/xufei)、 [博客](https://github.com/xufei/blog)、邮箱：xu.fei@outlook.com |
+| [吴亮](https://www.h5jun.com/) | 吴亮（网名月影）,先后在微软亚洲研究院做过访问学生，在金蝶软件有限公司担任过核心开发工程师、设计师和项目经理，在百度电子商务事业部担任过web开发项目经理。现任奇虎360高级技术经理，360前端团队奇舞团负责人。多年来致力于Javasript技术和web标准的推广，活跃于国内各技术社区，现为w3ctech顾问。|  [微博](http://weibo.com/silverna)、 [知乎](https://www.zhihu.com/people/yue-ying-2-61)、 [博客](https://www.h5jun.com/) |
 
-   玉伯（王保平），淘宝前端类库 KISSY、前端模块化开发框架SeaJS、前端基础类库Arale的创始人。2003-2006 年，中科院物理所研究生，Fortran 与 C 程序员，喜爱实验模拟和数值计算。 2006-2008 年，在中科院软件所互联网实验室从事项目管理软件的研发，C\# 与 Java 爱好者。 2008 年 4 月份加入淘宝，就职于 UED 部门。2009 年起，组建前端架构团队，在首页维护、全网性能优化、类库研发、知识沉淀、工具应用等方面取得了丰硕成果。
-
-   联系方式：  
-   [微博](http://weibo.com/lifesinger)、 [知乎](https://www.zhihu.com/people/lifesinger)、 [Github](https://github.com/lifesinger)、  
-   邮箱：lifesinger@gmail.com
-
-2. \*\*\*\*[**阮一峰**](http://www.ruanyifeng.com/blog/)\*\*\*\*
-
-   70后，在上海出生和长大，大学读经济学。工作了几年，又去读了世界经济的研究生，毕业后，在上海一所本地高校当了老师，教财经类的课程。最近，去了支付宝的前端团队，在玉伯负责的”体验技术部”工作，目前主要从事JavaScript和Node.js的开发。
-
-   联系方式：  
-   [微博](http://weibo.com/ruanyf)、 [Github](https://github.com/ruanyf)、 [Twitter](https://twitter.com/ruanyf)、  
-   邮箱：yifeng.ruan@gmail.com
-
-3. \*\*\*\*[**司徒正美**](http://www.cnblogs.com/rubylouvre/)\*\*\*\*
-
-   钟钦成，网名司徒正美，著名的Java专家，去哪儿网前端架构师，立志做考古学家的日语系工程师，穿梭于二次元与二进制间的“魔法师”，做过陶艺，写过小说，涉猎Java、Ruby、 Java。曾出版《Java框架设计》一书。
-
-   联系方式:  
-   [微博](http://weibo.com/jslouvre)、 [知乎](https://www.zhihu.com/people/si-tu-zheng-mei)、 [Github](https://github.com/RubyLouvre)、  
-   邮箱:cheng19840218@gmail.com
-
-4. \*\*\*\*[**朴灵**](http://diveintonode.org/)\*\*\*\*
-
-   朴灵，真名田永强，文艺型码农，Node.js布道者。现就职于阿里巴巴数据平台，任资深工程师，著有《深入浅出Node.js》。他活跃于CNode社区，是线下会议NodeParty的组织者，同时也是JSConf China（沪JS、京JS，以及杭JS）的组织者之一。朴灵热爱开源，是多个Node.js模块的作者。[前端技能汇总](https://github.com/JacksonTian/fks)项目star7000+。
-
-   联系方式：  
-   [微博](http://weibo.com/shyvo)、 [知乎](https://www.zhihu.com/people/po-ling)、 [Github](https://github.com/JacksonTian)、  
-   邮箱:shyvo1987@gmail.com
-
-5. \*\*\*\*[**尤小右**](http://evanyou.me/)\*\*\*\*
-
-   本名尤雨溪，目前在 Google Creative Lab 就职。vue.js 项目作者。
-
-   联系方式：  
-   [微博](http://weibo.com/arttechdesign)、 [知乎](https://www.zhihu.com/people/evanyou)、 [Twitter](https://twitter.com/youyuxi)、 [Github](https://github.com/yyx990803)
-
-6. \*\*\*\*[**贺师俊**](http://johnhax.net/)\*\*\*\*
-
-   贺师俊，网名 Hax，百姓网前端技术专家。有年头的 Web 开发者，信仰 Web 标准，HTML 纯化论者 +CSS 理想主义者 +JavaScript 改革派 +REST 信徒。 他致力于构建真正实践互联网开放理念的 Web 产品，并平衡需求、技术和人性因素。所以在写代码以外，他还热切的关注可用性、无障碍性乃至更广泛意义上的用户体验（譬如售后服务）。 作为一个坚持己见的人，Hax 因犀利的技术批评为人所知，其拍砖对象下到写书神棍上至业界权威，中间亦包括他的同事和朋友——因为他深信正直坦诚是技术人员必须坚守的美德，并希望通过自由而热烈的讨论推动技术社群不断成长、永葆活力。 Hax 毕业于复旦大学，感兴趣的领域除了 Web 标准、协议、架构以及与 Web 相关的各种具体技术之外，还包括交互设计、编程语言和方法论，最近则迷上了字体和排版。
-
-   联系方式：  
-   [微博](http://weibo.com/haxy)、 [Twitter](https://twitter.com/haxy)、 [知乎](https://www.zhihu.com/people/he-shi-jun)、 [Github](https://github.com/hax)、  
-   邮箱：johnhax@gmail.com
-
-7. \*\*\*\*[**周爱民**](http://weibo.com/aimingoo)\*\*\*\*
-
-   曾阿里、豌豆荚做架构师，现为[Ruff](https://ruff.io/)架构师。著有《JAVASCRIPT语言精髓与编程实践》、《大道至简——软件工程实践者的思想》等业内名作。
-
-   联系方式：  
-   [微博](http://weibo.com/aimingoo)、 [知乎](https://www.zhihu.com/people/aimingoo)、 [Github](https://github.com/aimingoo)、 [CSDN](http://blog.csdn.net/aimingoo)
-
-8. \*\*\*\*[**徐涛**](http://www.cnblogs.com/TomXu/)\*\*\*\*
-
-   汤姆大叔，原名徐涛，资深Web开发工程师，精通JavaScript、CSS、HTML5等Web开发技术，以及Bootstrap等各种主流Web开发框架。擅长Web系统的架构、设计与开发，参与过全球最大婚恋网站Match、全球最大在线旅游网站Expedia、波音公司、GE医疗和万达集团等多个国际知名企业的Web项目的架构与设计。他还是一位资深的微软技术专家，曾获得MCP、MCTS、MCDBA等近十项认证。翻译了《Java Script编程精解》、《Javascript启示录》、《编写可测试的JavaScript代码》、《Backbone.js应用程序开发》、《JavaScript忍者秘籍》、《JavaScript设计模式》等多本JavaScript方面的著作。
-
-   联系方式：  
-   [微博](http://weibo.com/TomXuTao)、 [博客](http://www.cnblogs.com/TomXu/)
-
-9. \*\*\*\*[**廖雪峰**](http://www.liaoxuefeng.com/)\*\*\*\*
-
-   技术作家，十年软件开发经验，业余产品经理，精通Java/Python/Ruby/Visual Basic/Objective C等，对开源框架有深入研究，著有号称史上最浅显易懂的[Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)，口碑不错的《[JS教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)》，多个业余开源项目托管在GitHub。
-
-   联系方式:  
-   [微博](http://weibo.com/liaoxuefeng)、 [Twitter](https://twitter.com/liaoxuefeng)、 [知乎](https://www.zhihu.com/people/liaoxuefeng)、 [Github](https://github.com/michaelliao)、  
-   邮箱：askxuefeng@gmail.com
-
-10. \*\*\*\*[**勾三股四**](http://jiongks.name/)\*\*\*\*
-
-    勾三股四，本名赵锦江，阿里巴巴高级前端工程师，前北京傲游前端开发部经理。
-
-    联系方式:  
-    [微博](http://weibo.com/mx006)、 [知乎](https://www.zhihu.com/people/jinjiang)、 [Github](http://github.com/jinjiang/)、  
-    邮箱：zhaojinjiang@me
-
-11. \*\*\*\*[**寒冬winter**](http://winter-cn.cnblogs.com/)\*\*\*\*
-
-    本名程劭非，花名寒泉，前端工程师，JavaScript 专家。江湖人称“计算机之子”。先后在微软，盛大，阿里巴巴工作，目前是手机淘宝前端 leader。
-
-    联系方式：  
-    [微博](http://weibo.com/wintercn)、 [知乎](https://www.zhihu.com/people/evanyou)、 [Github](https://github.com/wintercn)、 [博客](http://winter-cn.cnblogs.com/)、  
-    邮箱：csf178@gmail.com
-
-12. \*\*\*\*[**徐飞\(民工精髓\)**](https://github.com/xufei/blog)\*\*\*\*
-
-    苏宁云商前端架构师，国内知名前端，博客里的Angular教程颇多拥趸。  
-    徐飞同志讲话要点：技术人员应当乐于助人，有好东西要主动拿出来分享，资产阶级知识分子垄断技术书籍的现象再也不能出现了！
-
-    联系方式:  
-    [微博](http://weibo.com/sharpmaster)、 [Github](https://github.com/xufei)、 [博客](https://github.com/xufei/blog)、  
-    邮箱：xu.fei@outlook.com
-
-13. \*\*\*\*[**吴亮\(月影\)**](https://www.h5jun.com/)\*\*\*\*
-
-    吴亮（网名月影）,先后在微软亚洲研究院做过访问学生，在金蝶软件有限公司担任过核心开发工程师、设计师和项目经理，在百度电子商务事业部担任过web开发项目经理。现任奇虎360高级技术经理，360前端团队奇舞团负责人。多年来致力于Javasript技术和web标准的推广，活跃于国内各技术社区，现为w3ctech顾问。
-
-    联系方式:  
-    [微博](http://weibo.com/silverna)、 [知乎](https://www.zhihu.com/people/yue-ying-2-61)、 [博客](https://www.h5jun.com/)、  
-    可通过博客、微博留言联系大神。
+    
+   
 
 14. \*\*\*\*[**雷志兴**](http://www.cnberg.com/)\*\*\*\*
 
