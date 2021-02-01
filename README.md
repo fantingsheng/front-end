@@ -12,3 +12,8 @@
 ### [前端大佬资料](https://github.com/fantingsheng/front-end-wechat/blob/main/dalao.md)
 
 始终相信一句话，要学习新东西，一定要找到最优秀的资源，人也是一种资源，借鉴优秀的人的学习经验和分享的东西，你会学习的更快。
+
+
+### [前端学习资料](https://github.com/fantingsheng/front-end-wechat/blob/main/source.md)
+
+学习的过程也是摸索的过程，然而获得最好的学习资源可以让你在学习的路上事半功倍。
