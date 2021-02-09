@@ -7,6 +7,9 @@
 + [现代JavaScript教程](https://zh.javascript.info/)
 
 
+### TypeScript资源
++ [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+
 
 ### CSS资源
 
