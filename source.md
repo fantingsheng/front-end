@@ -12,6 +12,8 @@
 + [TypeScript 入门教程](https://ts.xcatliu.com/)
 
 ### CSS资源
++ [CSS Tricks](https://lhammer.cn/You-need-to-know-css/#/)
++ [CSS Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/)
 
 ### 他人整理综合资源
 + [FE-Interview](http://interview.poetries.top/)
