@@ -13,3 +13,6 @@
 
 ### CSS资源
 
+### 他人整理综合资源
++ [FE-Interview](http://interview.poetries.top/)
++ [高级前端进阶](https://muyiy.cn/blog/)
