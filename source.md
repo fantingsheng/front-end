@@ -9,7 +9,7 @@
 
 ### TypeScript资源
 + [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
-
++ [TypeScript 入门教程](https://ts.xcatliu.com/)
 
 ### CSS资源
 
