@@ -21,3 +21,6 @@
 ### [前端书籍资料](https://github.com/fantingsheng/front-end-wechat/blob/main/book.md)
 
 📚 书籍是人类进步的阶梯。帮你删选出前端领域最值得一看的图书。
+
+## 站点
+http://doc.i-fanr.com
