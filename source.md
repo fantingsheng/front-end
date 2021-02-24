@@ -10,10 +10,13 @@
 ### TypeScript资源
 + [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 + [TypeScript 入门教程](https://ts.xcatliu.com/)
++ [TypeScript中文网 · TypeScript——JavaScript的超集](https://www.tslang.cn/)
++ [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 
 ### CSS资源
 + [CSS Tricks](https://lhammer.cn/You-need-to-know-css/#/)
 + [CSS Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/)
++ [CSS-TRICKS](https://css-tricks.com/)
 
 ### Vue资源
 + [Vue.js 源码解析](https://github.com/answershuto/learnVue)
