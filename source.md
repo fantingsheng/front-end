@@ -6,6 +6,7 @@
 + [TypeScript入门教程](https://ts.xcatliu.com/introduction/what-is-typescript.html)
 + [现代JavaScript教程](https://zh.javascript.info/)
 + [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
++ [JavaScript 编程技巧](https://spacexcode.com/javascript/technique.html)
 
 ### TypeScript资源
 + [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
