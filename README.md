@@ -25,3 +25,7 @@
 ### [前端解决方案](https://github.com/fantingsheng/front-end-wechat/blob/main/solve.md)
 
 快速高效解决实际问题也是平时工作中的一项重要的能力，学会借用别人的梯子来帮助自己解决问题。
+
+### [前端项目模板](https://github.com/fantingsheng/front-end-wechat/blob/main/boilerplate.md)
+
+以一个好的模板来开始一个项目，可以帮你免去架构上的一些失误。
