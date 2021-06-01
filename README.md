@@ -23,3 +23,5 @@
 📚 书籍是人类进步的阶梯。帮你删选出前端领域最值得一看的图书。
 
 ### [前端解决方案](https://github.com/fantingsheng/front-end-wechat/blob/main/solve.md)
+
+快速高效解决实际问题也是平时工作中的一项重要的能力，学会借用别人的梯子来帮助自己解决问题。
