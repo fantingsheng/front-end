@@ -5,4 +5,4 @@
 
 ### [takenote](https://github.com/fantingsheng/takenote)
 
-为开发者使用的 Web 平台的记事本应用
+为开发者提供的在线基于 Web 平台使用的记事本应用，可解析markdown语法
