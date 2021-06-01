@@ -15,3 +15,16 @@
 - Typescript
 - Ant Design
 - ESLint
+
+### [vue-typescript-starter](https://github.com/ws456999/vue-typescript-starter)
+
+这个项目起始于在vue加入强类型的念头，目的是提供一个手脚架快速上手和开始, 主要是基于vue + typescript 使用 .vue 单文件开发脚手架，支持jsx
+
+- webpack4
+- vue
+- vue-router
+- vuex
+- typescript
+- jsx
+- tslint
+- vue-cli
