@@ -25,6 +25,12 @@
 
 ### React资源
 + [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
++ [React 模式](https://reactpatterns.cn/)
++ [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React)
+
+### Node资源
++ [Node.js 资源大全中文版](https://github.com/jobbole/awesome-nodejs-cn)
++ [【知乎Live】狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
 
 ### 他人整理综合资源
 + [太空编程](http://doc.i-fanr.com/)
