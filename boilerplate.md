@@ -1,3 +1,7 @@
+## 前端项目模板
+
+以一个好的模板来开始一个项目，可以帮你免去架构上的一些失误。
+
 ### [egg-react-ssr](https://github.com/ykfe/egg-react-ssr)
 
 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
