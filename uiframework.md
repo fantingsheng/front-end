@@ -18,6 +18,11 @@
 
 支持Vue2，Vue3，小程序
 
+### Vuetify
+[https://vuetifyjs.com/zh-Hans/](https://vuetifyjs.com/zh-Hans/)
+
+支持Vue2，Vue3版本即将发布
+
 ### Color UI
 [https://www.color-ui.com/](https://www.color-ui.com/)
 
