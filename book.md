@@ -1,3 +1,6 @@
+## 前端书籍资料
+📚 书籍是人类进步的阶梯。帮你删选出前端领域最值得一看的图书。
+
 ## JavaScript
 
 + [《JavaScript高级程序设计》](http://www.amazon.cn/mn/detailApp/ref=as_li_qf_sp_asin_tl?_encoding=UTF8&tag=vastwork-23&linkCode=as2&asin=B003V42XZW&camp=536&creative=3200&creativeASIN=B003V42XZW)
