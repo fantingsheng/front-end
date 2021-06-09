@@ -26,7 +26,7 @@
 ### View UI
 [http://v1.iviewui.com/](http://v1.iviewui.com/)
 
-支持
+支持Vue2
 
 ### Color UI
 [https://www.color-ui.com/](https://www.color-ui.com/)
