@@ -29,3 +29,7 @@
 ### [前端项目模板](https://github.com/fantingsheng/front-end-wechat/blob/main/boilerplate.md)
 
 以一个好的模板来开始一个项目，可以帮你免去架构上的一些失误。
+
+### [前端UI框架](https://github.com/fantingsheng/front-end-wechat/blob/main/uiframework.md)
+
+越来越多的设计精美的UI框架可以帮助解决项目中快速搭建前端原型，基本覆盖常见的使用场景，即使没有覆盖到，也可通过重写CSS来定制你想要的组件。
