@@ -5,7 +5,7 @@
 ## JavaScript资源
 
 + [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-+ [TypeScript入门教程](https://ts.xcatliu.com/introduction/what-is-typescript.html)
++ [ECMAScript Next 系列教程](https://esnext-book.lishuaishuai.com/)
 + [现代JavaScript教程](https://zh.javascript.info/)
 + [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 + [JavaScript 编程技巧](https://spacexcode.com/javascript/technique.html)
