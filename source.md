@@ -33,6 +33,7 @@
 ## Node资源
 + [Node.js 资源大全中文版](https://github.com/jobbole/awesome-nodejs-cn)
 + [【知乎Live】狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
++ [awesome node.js](https://github.com/zerolab-fe/awesome-nodejs)
 
 ## 他人整理综合资源
 + [太空编程](http://doc.i-fanr.com/)
