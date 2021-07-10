@@ -9,6 +9,7 @@
 + [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 + [JavaScript 编程技巧](https://spacexcode.com/javascript/technique.html)
 + [ECMAScript Next 系列教程](https://esnext-book.lishuaishuai.com/)
++ [JavaScript 进阶问题列表](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
 
 ## TypeScript资源
 + [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
