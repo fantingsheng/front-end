@@ -40,3 +40,8 @@
 [https://www.naiveui.com/zh-CN/os-theme](https://www.naiveui.com/zh-CN/os-theme)
 
 仅支持Vue3
+
+### uView
+[https://www.uviewui.com/components/intro.html](https://www.uviewui.com/components/intro.html)
+
+uni-app平台专用UI框架
