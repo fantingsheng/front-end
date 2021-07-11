@@ -16,6 +16,7 @@
 + [TypeScript 入门教程](https://ts.xcatliu.com/)
 + [TypeScript中文网 · TypeScript——JavaScript的超集](https://www.tslang.cn/)
 + [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
++ [TypeScript 从零实现 axios](https://younglele.cn/ts-axios-doc/)
 
 ## CSS资源
 + [CSS Tricks](https://lhammer.cn/You-need-to-know-css/#/)
