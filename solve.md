@@ -9,3 +9,8 @@
 ### [takenote](https://github.com/fantingsheng/takenote)
 
 为开发者提供的在线基于 Web 平台使用的记事本应用，可解析markdown语法
+
+### [kkFileView](https://github.com/kekingcn/kkFileView)
+
+文件文档在线预览开源项目，采用spring boot搭建，支持主流办公文档的在线预览，如doc,docx,Excel,pdf,txt,zip,rar,图片等等
+
