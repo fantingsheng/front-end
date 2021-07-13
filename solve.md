@@ -14,3 +14,6 @@
 
 文件文档在线预览开源项目，采用spring boot搭建，支持主流办公文档的在线预览，如doc,docx,Excel,pdf,txt,zip,rar,图片等等
 
+### [SheetJS](https://github.com/SheetJS/sheetjs)
+
+是一款非常方便的只需要纯JS即可读取和导出excel的工具库，功能强大，支持格式众多，支持xls、xlsx、ods(一种OpenOffice专有表格文件格式)等十几种格式
