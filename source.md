@@ -31,6 +31,7 @@
 + [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 + [React 模式](https://reactpatterns.cn/)
 + [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React)
++ [图解 React 源码系列](https://github.com/7kms/react-illustration-series)
 
 ## Node资源
 + [Node.js 资源大全中文版](https://github.com/jobbole/awesome-nodejs-cn)
