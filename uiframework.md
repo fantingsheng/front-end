@@ -50,3 +50,24 @@ uni-app平台专用UI框架
 [https://nutui.jd.com/#/](https://nutui.jd.com/#/)
 
 京东风格的轻量级移动端 Vue 组件库
+
+### VARLET
+[https://varlet.gitee.io/varlet-ui/#/zh-CN/index](https://varlet.gitee.io/varlet-ui/#/zh-CN/index)
+
+Varlet 是一个基于 Vue3 开发的 Material 风格移动端组件库，全面拥抱 Vue3 生态，由社区团队维护。支持 Typescript、按需引入、暗黑模式、主题定制、国际化，并提供 VSCode 插件保障良好的开发体验。
+
+### Wave UI
+[https://antoniandre.github.io/wave-ui/](https://antoniandre.github.io/wave-ui/)
+
+A Vue.js UI framework with only the bright side.
+
+### PRIMEVUE
+[https://primevue.org/](https://primevue.org/)
+
+PrimeVue is a rich set of open source native components for Vue.
+
+### AT-UI
+[https://at-ui.github.io/at-ui/#/zh](https://at-ui.github.io/at-ui/#/zh)
+
+AT-UI 是一款基于 Vue.js 2.0 的前端 UI 组件库，主要用于快速开发 PC 网站中后台产品。
+
